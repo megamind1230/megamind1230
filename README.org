@@ -1,0 +1,47 @@
+#+TITLE: Hassan aka (baka) or (nsb)
+#+EMAIL: hassan24641@gmail.com
+
+* About
+
+Self-taught developer.  Linux has been my daily driver for about 5 years
+now.  I build keyboard-first, mouseless desktop tools and productivity
+apps — if it can be done without reaching for the mouse, I'm probably
+working on it.
+
+[[file:intomymind.org]]
+
+* Skills
+
+- *Languages:* C#, TypeScript/JavaScript, Go, Python, HTML/CSS
+- *.NET:* Avalonia, ASP.NET (MVC, Razor Pages, Minimal APIs)
+- *Cross-platform:* Electron, Tauri, PWA / Vite
+- *Linux:* Wayland, Hyprland, i3, X11, Quickshell
+- *AI:* Google Gemini API
+- *Testing:* xUnit, vitest
+
+* Projects
+
+| Project                     | Description                                                                    | Link                                                      |
+|-----------------------------+--------------------------------------------------------------------------------+-----------------------------------------------------------|
+| =mouseless-kanban=          | Keyboard-centric desktop kanban for Obsidian-compatible =.md=/.=org= files     | https://github.com/megamind1230/mouseless-kanban          |
+| =mouseless-mindmap=         | Keyboard-first mindmap app; maps stored as plain =.md= or =.org= files         | https://github.com/megamind1230/mouseless-mindmap         |
+| =mouseless-grid=            | On-screen grid clicker for Linux (pure Go, X11 + Wayland, single binary)       | https://github.com/megamind1230/mouseless-grid            |
+| =wheel-hover-launcher=      | Radial (wheel-style) app launcher for Hyprland and i3, built with Quickshell   | https://github.com/megamind1230/wheel-hover-laucher       |
+| =legit-content=             | Anti-brain-rot link aggregator for genuinely good content                      | https://github.com/megamind1230/legit-content             |
+| =notes-repo=                | Student study-material hub: searchable exams and notes by college/course       | https://github.com/megamind1230/notes-repo                |
+| =chrono=                    | TUI productivity tool: focus timer (Pomodoro) + real-time distraction blocking | https://github.com/megamind1230/chrono                    |
+| =mcq-quiz-generator=        | Desktop app that generates/takes MCQ quizzes from text, Markdown or Org        | https://github.com/megamind1230/mcq-quiz-generator        |
+| =mcq-quiz-generator-mobile= | 100% offline PWA quiz taker for students with grading and PDF export           | https://github.com/megamind1230/mcq-quiz-generator-mobile |
+| =nextlearn=                 | Learn anything. Fight distraction. — desktop + website                         | https://github.com/megamind1230/nextlearn                 |
+| =time-trace=                | Desktop time tracker (.NET 8 + Avalonia): countdown timer and stopwatch        | https://github.com/megamind1230/timetrace                 |
+| =clock-blocks=              | Single-file time-blocking planner drawn as arcs on live analog clocks          | https://github.com/megamind1230/clock-blocks              |
+| =codveda-dotnet=            | Collection of .NET tasks: file organizer, kanban, ncdu clone and more          | https://github.com/megamind1230/codveda-dotnet            |
+| =emacs-golf-challenges=     | 50 quick mini-games to get you used to using Emacs                             | https://github.com/megamind1230/emacs-golf                |
+
+* Contact
+
+- *GitHub:*    https://github.com/megamind1230
+- *Discord:*   =not_sussy_baka_lol.=
+- *Telegram:*  [[https://t.me/NewPhoenixGuy][@NewPhoenixGuy]] — you'll quickly learn I hate my mouse and don't watch anime
+- *WhatsApp:*  =@nsblol=
+- *Email:*     [[mailto:hassan24641@gmail.com][hassan24641@gmail.com]]
