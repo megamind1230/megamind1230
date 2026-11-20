@@ -1,2 +1,8 @@
 1. It doesn't have to perfect
-2.
+2. .org file > .md files
+3. it's ok to use AI as long as you know what you doing, and you test the code enough.
+4. Linux > Windows .. it's just reality
+5. Wayland is ok, Xorg(aka X11) is also ok ..  imo none of this is just superior
+6. Emacs & Neovim are goated, and hope they survive the editors wars and waves and keep up the good things
+7. modal editing is just superior (whether it is meow-mode-motions, vim-motions, or helix-motions) .. they are just better than just using the mouse and arrow keys
+8. Obsidian & Zennotes are good, but as long as they are electron apps i'm not gonna touch them for now, let's hope they switch into rust or something more reponsive and lightweight, I'm gon stick with Emacs org-mode for now.
